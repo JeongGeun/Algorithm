@@ -1,7 +1,0 @@
-﻿  소스.cpp
-c:\users\jeonggeun\source\repos\c_day06\c_day06\소스.cpp(113): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-c:\users\jeonggeun\source\repos\c_day06\c_day06\소스.cpp(114): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-c:\users\jeonggeun\source\repos\c_day06\c_day06\소스.cpp(116): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-c:\users\jeonggeun\source\repos\c_day06\c_day06\소스.cpp(118): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
-c:\users\jeonggeun\source\repos\c_day06\c_day06\소스.cpp(154): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  C_Day06.vcxproj -> C:\Users\JEONGGEUN\source\repos\C_Day06\Debug\C_Day06.exe
