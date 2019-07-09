@@ -37,6 +37,9 @@
 *.app
 *.tlog
 *.opendb
-
-
+*.db
+*.filters
+*.vcxproj
+*.enc
+*.idb
 # End of https://www.gitignore.io/api/c++
