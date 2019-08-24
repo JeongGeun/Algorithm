@@ -8,7 +8,6 @@ using namespace std;
 
 int T, N;
 vector<pair<int, int>>v;
-int visit[100001];
 int main()
 {
 	cin >> T;
@@ -36,7 +35,7 @@ int main()
 		}
 		cout << ans << "\n";
 		v.clear();
-		memset(visit, 0, sizeof(visit));
+		//memset(visit, 0, sizeof(visit));
 	}
 
 
